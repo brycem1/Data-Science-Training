@@ -1,2 +1,2 @@
 # Data-Science-Training
-Data Science Training
+Python Data Science projects.
